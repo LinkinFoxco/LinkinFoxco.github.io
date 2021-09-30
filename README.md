@@ -12,7 +12,7 @@ Je me suis confronté à des problématiques de traitement des clients ainsi que
 Malheuresement je ne peux partager aucun code.
 
 ### [ Image To DMC](https://github.com/LinkinFoxco/Image-To-DMC) ```(C#)```
-[![image](https://i.imgur.com/9KYG7Yx.png)](https://github.com/LinkinFoxco/Image-To-DMC)
+[![image](https://imgur.com/AqgXmby)](https://github.com/LinkinFoxco/Image-To-DMC)
 
 Petit projet personnel, c'est un cadeau réalisé pour un membre de ma famille.
 Le logiciel permet de convertir une image en grille indexée correspondant à une liste de perles colorées.
