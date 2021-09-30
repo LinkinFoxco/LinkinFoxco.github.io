@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# Hello, faites comme chez vous.
+_Mickaël Leboulanger, 21 ans, apprentis magicien._
 
-You can use the [editor on GitHub](https://github.com/LinkinFoxco/LinkinFoxco.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Mes projets
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [Le Comptoir des Cybermonnaies](https://www.lecomptoirdescybermonnaies.fr/) ```(VBA)```
+[![image](https://i.imgur.com/OteCnyl.png)](https://www.lecomptoirdescybermonnaies.fr/)
 
-### Markdown
+Au comptoir j'ai réalisé différentes tâches d'**IT** mais surtout de **Dev** sur l'outil interne sur une durée de 4 mois.
+J'ai du apprendre le **VBA** principalement utilisé sur l'outil.
+Je me suis confronté à des problématiques de traitement des clients ainsi que de conformité, ce qui m'a permis d'acquérir des compétences dans le domaine **financier** et **législatif** en complément de celle d'un développeur.
+Malheuresement je ne peux partager aucun code.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [ Image To DMC](https://github.com/LinkinFoxco/Image-To-DMC) ```(C#)```
+[![image](placeholder)](https://github.com/LinkinFoxco/Image-To-DMC)
 
-```markdown
-Syntax highlighted code block
+Petit projet personnel, c'est un cadeau réalisé pour un membre de ma famille.
+Le logiciel permet de convertir une image en grille indexée correspondant à une liste de perles colorées.
+Le code réalise simplement un matching avec un tableau de valeurs RGB -> index de la perle puis regénère une image.
+Il m'a permis de débuter en C# ainsi qu'une interface graphique de base.
 
-# Header 1
-## Header 2
-### Header 3
+### [Projet Web A2](https://github.com/LinkinFoxco/ProjetWebA2) ```(HTML/CSS JS PHP)```
 
-- Bulleted
-- List
+Première expérience web avec un objectif de recrée un **clone LinkedIn** en peu de temps.
+Nous avons utilisé un framework **Laravel** ainsi que son moteur **Blade**.
+L'architecture est majoritairement en php et donc beaucoup de traitement **backend**.
+La réalisation de ce dernier ne m'a pas particulièrement passioné mais il reste une expérience intéréssante.
 
-1. Numbered
-2. List
+### [Projet Système Embarqué](https://github.com/LinkinFoxco/ProjetsVrac/blob/main/ProjetSysEmbarqu%C3%A9Final.ino) ```(C++)```
 
-**Bold** and _Italic_ and `Code` text
+L'objectif était de répondre à une demande fictive de station météo embarquée sur des bateaux.
+Fait sur arduino, c'est un projet qui m'a particulièrement plus, objectif étant d'utiliser le moins de place possible ainsi qu'un traitement le plus rapide possible, en somme de l'optimisation.
+Quelques problèmatiques électronique mais le gros du travail étant l'utilisation de classes et de pointeurs pour optimiser le traitement des données et leur stockage.
 
-[Link](url) and ![Image](src)
-```
+### [Projet POO](https://github.com/LinkinFoxco/ProjetPOO/tree/master/ProjetPOO) ```(C++)```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Introduction à la Programmation Orientée Objet dans un contexte de réalisation d'un logiciel commercial.
+Il nous a permis de comprendre les bonnes pratiques de la conception logiciel ainsi que des bases de données relationnelles avec une analyse du besoin ainsi qu'un MCD.
 
-### Jekyll Themes
+## [À Propos de moi](https://www.linkedin.com/in/leboulanger-micka%C3%ABl-64b680203/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LinkinFoxco/LinkinFoxco.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Étudiant en 1ère année de cycle ingénieur informatique (Bac+3) j'aimerai explorer les différents secteurs d'activité du developpement informatique.
+Pasionné depuis tout petit par l'informatique, je m'approche de plus en plus de mon objectif.
