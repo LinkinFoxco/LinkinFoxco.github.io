@@ -1,4 +1,7 @@
-theme: jekyll-theme-minimal
-title: "Leboulanger Mickael"
-logo: /img/logo.png
-description: "Voici une petite présentation de moi et mes projets !"
+#theme: jekyll-theme-minimal
+#title: "Leboulanger Mickael"
+#logo: /img/logo.png
+#description: "Voici une petite présentation de moi et mes projets !"
+remote_theme: poole/hyde
+plugins:
+- jekyll-remote-theme
