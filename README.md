@@ -1,5 +1,5 @@
 # Hello, faites comme chez vous.
-_Mickaël Leboulanger, 21 ans, apprentis magicien._
+_Mickaël Leboulanger, 21 ans, apprenti magicien._
 
 ## Mes projets
 
