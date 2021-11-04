@@ -39,5 +39,5 @@ Il nous a permis de comprendre les bonnes pratiques de la conception logiciel ai
 
 ## [À Propos de moi](https://www.linkedin.com/in/leboulanger-micka%C3%ABl-64b680203/)
 
-Étudiant en 1ère année de cycle ingénieur informatique (Bac+3) j'aimerai explorer les différents secteurs d'activité du developpement informatique.
+Étudiant en 3ème année d'école d'ingénieur informatique (Bac+3) j'aimerai explorer les différents secteurs d'activité du developpement informatique.
 Pasionné depuis tout petit par l'informatique, je m'approche de plus en plus de mon objectif.
