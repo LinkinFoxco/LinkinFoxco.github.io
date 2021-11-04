@@ -17,7 +17,7 @@ Malheuresement je ne peux partager aucun code.
 Petit projet personnel, c'est un cadeau réalisé pour un membre de ma famille.
 Le logiciel permet de convertir une image en grille indexée correspondant à une liste de perles colorées.
 Le code réalise simplement un matching avec un tableau de valeurs RGB -> index de la perle puis regénère une image.
-Il m'a permis de débuter en C# avec une interface graphique de base.
+Il m'a permis de débuter en C# avec une interface graphique basique.
 
 ### [Projet Web A2](https://github.com/LinkinFoxco/ProjetWebA2) ```(HTML/CSS JS PHP)```
 
