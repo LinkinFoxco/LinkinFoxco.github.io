@@ -8,6 +8,7 @@ Passionné d'informatique et de jeux vidéo._
 [![image](https://i.imgur.com/HQbhvou.png)](https://www.snapp.fr/)
 
 Chez Snapp', j'ai eu l'occasion de travailler avec une équipe ainsi qu'un chercheur pour réaliser [un plugin SonarQube](https://github.com/cnumr/ecoCode) permettant d'analyser l'écoconception d'un code.\
+\
 Tout d'abord assigné à l'implémentation de règles allant vérifier la présence de paterne, de fonction. Je me suis ensuite focaliser sur l'ajout d'un language non supporté par la technologie. Le plugin étant orienté pour les applications mobiles, ces derniers étant près de 15 milliards en 2021, le support des différents languages liés au développement mobile était une priorité. SonarQube comprends de base le traitement du Java mais pas de Groovy ni de Kotlin. J'ai alors, en me basant sur des projets exisants, permis le support de Groovy dans SonarQube et son implémentation dans notre plugin.\
 \
 Par la suite, j'ai travaillé sur un projet d'analyse de sécurité et de lint à automatiser dans le CI. En travaillant sur de nombreux projets open source, permettant de couvrir les 11 languages utilisés dans l'agence ainsi que de script Bash, j'ai developpé puis implémenté, avec l'administrateur systeme, le lancement de différents processus via Kubernetes dans le Gitlab puis leur exploitation dans un système de crétation de review automatique ainsi qu'une interface graphique réalisée par un pair.
