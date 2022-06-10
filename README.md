@@ -4,6 +4,9 @@ Passionné d'informatique et de jeux vidéo._
 
 ## Mes projets
 
+### SOON ```(C++)```
+[![image](https://raytracing.github.io/images/img-1.21-book1-final.jpg)](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+
 ### [Snapp'](https://www.snapp.fr/) ```(Java & Bash)```
 [![image](https://i.imgur.com/HQbhvou.png)](https://www.snapp.fr/)
 
