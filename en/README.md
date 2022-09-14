@@ -1,4 +1,4 @@
-[Français]({{ site.baseurl }})
+[Français](https://linkinfoxco.github.io/)
 
 # Me and my projects.
 Mickael Leboulanger, 21 years old, 4th year of engineering school.
