@@ -1,8 +1,10 @@
+[Français](LinkinFoxco.github.io)
+
 # Me and my projects.
 Mickael Leboulanger, 21 years old, 4th year of engineering school.
 Passionate about computers and video games.
 
-## Mes projets
+## My Projects
 
 ### SOON ```(C++)```
 [![image](https://raytracing.github.io/images/img-1.21-book1-final.jpg)](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
