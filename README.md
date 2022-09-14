@@ -1,3 +1,5 @@
+[English](LinkinFoxco.github.io/en)
+
 # Moi et mes projets.
 _Leboulanger Mickael, 21 ans, 4ème année d'école d'ingénieurs.\
 Passionné d'informatique et de jeux vidéo._
