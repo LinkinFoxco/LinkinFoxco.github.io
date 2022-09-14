@@ -1,4 +1,6 @@
-[Français](LinkinFoxco.github.io)
+[Français]([English]({{ site.baseurl }})
+
+)
 
 # Me and my projects.
 Mickael Leboulanger, 21 years old, 4th year of engineering school.
