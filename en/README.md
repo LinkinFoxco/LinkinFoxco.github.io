@@ -1,4 +1,4 @@
-[Français]({{ site.baseurl }})
+[Français]({{ site.baseurl }}{% link /README.md %})
 
 # Me and my projects.
 Mickael Leboulanger, 21 years old, 4th year of engineering school.
