@@ -1,7 +1,7 @@
 [English]({{ site.baseurl }}{% link en/README.md %})
 
 # Moi et mes projets.
-_Leboulanger Mickael, 21 ans, 4ème année d'école d'ingénieurs.\
+_Leboulanger Mickael, 22 ans, 4ème année d'école d'ingénieurs.\
 Passionné d'informatique et de jeux vidéo._
 
 ## Mes projets
