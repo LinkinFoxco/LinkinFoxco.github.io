@@ -1,9 +1,9 @@
 [Français](https://linkinfoxco.github.io/)
 
 # Me and my projects.
-Mickael Leboulanger, 22 years old, 5th year of engineering school.
+_Mickael Leboulanger, 22 years old, 5th year of engineering school.
 Passionate about computers science.
-Currently taking a double degree at ETS Montréal.
+Currently taking a double degree at ETS Montréal._
 
 ## My Projects
 
