@@ -2,7 +2,8 @@
 
 # Me and my projects.
 Mickael Leboulanger, 22 years old, 5th year of engineering school.
-Passionate about computers and video games.
+Passionate about computers science.
+Currently taking a double degree at ETS Montréal.
 
 ## My Projects
 
