@@ -1,8 +1,9 @@
 [English]({{ site.baseurl }}{% link en/README.md %})
 
 # Moi et mes projets.
-_Leboulanger Mickael, 22 ans, 4ème année d'école d'ingénieurs.\
-Passionné d'informatique et de jeux vidéo._
+_Leboulanger Mickael, 22 ans, 5ème année d'école d'ingénieurs.\
+Passionné d'informatique.
+Actuellement en double diplôme à l'ETS Montréal._
 
 ## Mes projets
 
