@@ -7,7 +7,7 @@ Passionate about computers and video games.
 ## My Projects
 
 ### SOON ```(C++)```
-[![image](https://raytracing.github.io/images/img-1.21-book1-final.jpg)](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+[![image](https://raytracing.github.io/images/img-1.23-book1-final.jpg)](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 Scheduled for summer 2022, the project is on break, I prioritize my internship search on my free time.
 
 ### [Snapp'](https://www.snapp.fr/) ```(Java & Bash)```
